@@ -17,5 +17,7 @@
       <Button contentDisplay="CENTER" mnemonicParsing="false" text="График" onMouseClicked="#openLineChartSample"/>
        <Button contentDisplay="CENTER" mnemonicParsing="false" text="Многослойный" onMouseClicked="#openAreaChartSample"/>
        <Button contentDisplay="CENTER" mnemonicParsing="false" text="Гистограмма" onMouseClicked="#openBarChartSample"/>
+       <Button contentDisplay="CENTER" mnemonicParsing="false" text="Метки" onMouseClicked="#openBubbleChartSample"/>
+       <Button contentDisplay="CENTER" mnemonicParsing="false" text="Метки 2" onMouseClicked="#openScatterChartSample"/>
    </children>
 </VBox>
