@@ -13,4 +13,8 @@ public class Controller {
     public void openAreaChartSample(){
         AreaChartSample.start(); // Многослойный
     }
+
+    public void openBarChartSample(){
+        BarChartSample.start(); // Гистограмма
+    }
 }
