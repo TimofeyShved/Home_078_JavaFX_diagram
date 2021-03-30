@@ -9,4 +9,8 @@ public class Controller {
     public void openLineChartSample(){
         LineChartSample.start(); // График
     }
+
+    public void openAreaChartSample(){
+        AreaChartSample.start(); // Многослойный
+    }
 }
