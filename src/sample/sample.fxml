@@ -14,5 +14,6 @@
    <children>
       <Label text="Диаграммы:" />
       <Button contentDisplay="CENTER" mnemonicParsing="false" text="Круговая" onMouseClicked="#openPieChartSample"/>
+      <Button contentDisplay="CENTER" mnemonicParsing="false" text="График" onMouseClicked="#openLineChartSample"/>
    </children>
 </VBox>
